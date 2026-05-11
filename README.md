@@ -6,7 +6,7 @@
 1. Скачайте файл локализации "Ru-r.json"
 2. Перейдите в папку с игрой "Casualties: Unknown"
 
-   Для стима: Библиотека > выбрать игру "Casualties: Unknown" > Нажать на значок шестерёнки справа > Управление > Посмотреть локальные файлы  
+   Для стима: Библиотека > Выбрать игру "Casualties: Unknown" > Нажать на значок шестерёнки справа > Управление > Посмотреть локальные файлы  
 4. Поместите JSON файл по пути "*\CasualtiesUnknown_Data\Lang", рядом с файлом EN.json
 <img width="492" height="443" alt="steam" src="https://github.com/user-attachments/assets/a75ee168-9c82-4c62-8739-3c365b35db21" />
 
