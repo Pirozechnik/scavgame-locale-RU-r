@@ -14,7 +14,7 @@
 
 **Особенности руссификаторов**
 
-   - Полный перевод доступного текста в игре посредством без использования модов "Ru-r, Ru-r_Extended"
+   - Полный перевод доступного текста в игре "Ru-r, Ru-r_Extended"
 
    - Частичная поддержка мода KrokMP "Ru-r_Extended"
 
@@ -62,15 +62,15 @@ PLACEHOLDER
 
    - [Мод UniRuPatch](https://PLACEHOLDE.ABOBA), информация о нём изложена ниже.
 
-   - [Telegram-канал с информацией об обновлениях](https://t.me/CasualtiesUnknown_ScavPrototype)
+   - [Telegram-канал с информацией об обновлениях](https://t.me/C_U_RU_r)
    
-   - [Telegram-чат](https://t.me/CasualtiesUnknown_ScavPrototype), то же самое но можно:
+   - [Telegram-чат](https://t.me/+9swmn_fU8QYwYzZi), то же самое но можно:
    
       -Почитать как я сру мыслями по поводу всяких вещей которые можно сделать для руссификации
    
       -Пингануть меня чтобы я что либо исправил/добавил/рассказал что сейчас в работе
    
-      -Написать что мой перевод говно
+      -Написать что мой перевод невероятной паршивости
  
 <img width="200" height="238" alt="image" src="https://github.com/user-attachments/assets/5badd4cf-d585-4f3d-a1f0-ad6f10ec14d3" />
 
@@ -87,7 +87,7 @@ PLACEHOLDER
 
 2. Скачать архив UniRuPatch.zip [со страницы релизов](https://github.com/Pirozechnik/scavgame-locale-RU-r/releases) или с [NexusMods](https://PLACEHOLDE.ABOBA)
 
-3. Распаковать содержиое архива в корень игры
+3. Распаковать содержимое архива в корень игры
 
 4. Выбрать в настройках языка "Русский Extended++"
 
