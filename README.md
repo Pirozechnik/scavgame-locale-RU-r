@@ -34,7 +34,7 @@
      
    -  [Со страницы "Releases"](https://github.com/Pirozechnik/scavgame-locale-RU-r/releases) \*рекомендуется\*
 
-PLACEHOLDER
+<img width="1490" height="550" alt="image" src="https://github.com/user-attachments/assets/aeea2e57-d38d-4615-a60a-4d53039cf7f0" />
 
    - Скачать файл с репозитория кнопкой "Download raw file" при выборе файла, выше.
 
@@ -60,7 +60,7 @@ PLACEHOLDER
       
 ## Блок ссылок
 
-   - [Мод UniRuPatch](https://PLACEHOLDE.ABOBA), информация о нём изложена ниже.
+   - [Мод UniRuPatch](https://www.nexusmods.com/scavprototype/mods/375), информация о нём изложена ниже.
 
    - [Telegram-канал с информацией об обновлениях](https://t.me/C_U_RU_r)
    
@@ -85,7 +85,7 @@ PLACEHOLDER
 
 1. Иметь установленный [BepInEx](https://github.com/bepinex/bepinex), он и даёт модам работать.
 
-2. Скачать архив UniRuPatch.zip [со страницы релизов](https://github.com/Pirozechnik/scavgame-locale-RU-r/releases) или с [NexusMods](https://PLACEHOLDE.ABOBA)
+2. Скачать архив UniRuPatch.zip [со страницы релизов](https://github.com/Pirozechnik/scavgame-locale-RU-r/releases) или с [NexusMods](https://www.nexusmods.com/scavprototype/mods/375)
 
 3. Распаковать содержимое архива в корень игры
 
