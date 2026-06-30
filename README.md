@@ -85,7 +85,7 @@ PLACEHOLDER
 
 1. Иметь установленный [BepInEx](https://github.com/bepinex/bepinex), он и даёт модам работать.
 
-2. Скачать архив UniRuPatch.zip [со страницы релизов](https://github.com/Pirozechnik/scavgame-locale-RU-r/releases)
+2. Скачать архив UniRuPatch.zip [со страницы релизов](https://github.com/Pirozechnik/scavgame-locale-RU-r/releases) или с [NexusMods](https://PLACEHOLDE.ABOBA)
 
 3. Распаковать содержиое архива в корень игры
 
