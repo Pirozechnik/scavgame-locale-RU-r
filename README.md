@@ -93,14 +93,6 @@
 
 5. Вы ещё более прекрасны чем раньше!
 
-## Список поддерживаемых модов
-
-KrokoshaMP mod v4.0.1
-
-Prosthetics v0.8.9
-
-QoL Unknown v1.0.4.6
-
 ## FAQ
 
 **В чём разница между файлами "Ru-r" и "Ru-r_Extended?:** В Extended частично добавлены переводы некоторых модов. "Частично" только по тому что не все моды использую ключи которые можно свободно изменять.
@@ -108,5 +100,55 @@ QoL Unknown v1.0.4.6
 **Сломается ли что либо если я поставлю "Ru-r_Extended" без модов?:** Нет, строчки будут лежать мёртвым грузом ожидая подключения соответствующего мода, не влияя на игру в противоположном случае. 
 
 **Зачем нужно тогда 2 разных файла?:** Потому что гладиолус. 
+
+## Список поддерживаемых модов
+
+KrokoshaMP mod v4.0.1 ( Casualties Together )
+
+Prosthetics v0.8.9
+
+QoL Unknown v1.0.4.6
+
+Auto's Arsenal
+
+Bomber Strike
+
+Hard mode
+
+CatPatch
+
+Cigarrets
+
+Cu-Hotbar
+
+Dog things
+
+Escape From Casualties
+
+Galaxy Gray Technology Company
+
+Gunsaw Genetics
+
+Maid dress
+
+Maxwell Cat Companion. Multiplayer Compatable (Casualties Things)
+
+MoreWatchInfo
+
+NewClothing
+
+NewFirearms
+
+New Gun
+
+MULTIPLAYER_Sprite_Player_Customizer_ MULTIPLAYER
+
+Re-Growth Serums
+
+Starter Game Modifiers (SGM)
+
+Weight Metal
+
+
 
 **Теперь появился ещё и RU-r_Extended++, он то зачем нужен?:** Имеет костыльную систему тегов. Необходим для работы UniRuPatch. 
