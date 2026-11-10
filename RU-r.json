@@ -1,6 +1,6 @@
 {
     "name": "Русский",
-    "description": "Неофициальная русская локализация. Может иметь ошибки, неточности, и т.п. Другие переводы доступны по ссылке: <color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>. Они не были тщательно проверены и также могут содержать ошибки или быть устаревшими.\nАвтор данной локализации: <color=\"orange\">Пирожок</color>\nРепозиторий локализатора: <color=\"blue\">https://github.com/Pirozechnik/scavgame-locale-RU-r</color>\nВерсия перевода: <color=#ebebeb>1.22</color>\nПеревод под версию игры: <color=#ebebeb>1.0</color>
+    "description": "Неофициальная русская локализация. Может иметь ошибки, неточности, и т.п. Другие переводы доступны по ссылке: <color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>. Они не были тщательно проверены и также могут содержать ошибки или быть устаревшими.\nАвтор данной локализации: <color=\"orange\">Пирожок</color>\nРепозиторий локализатора: <color=\"blue\">https://github.com/Pirozechnik/scavgame-locale-RU-r</color>\nВерсия перевода: <color=#ebebeb>1.22</color>\nПеревод под версию игры: <color=#ebebeb>1.0</color>",
 	"version": "1.0"
     "main": {
         "bandage": "Бинт",
@@ -55,8 +55,8 @@
         "aeddsc": "Электронное устройство, <color=#7FDFFF>способное диагностировать и вылечить опасную для жизни аритмию сердца, электрическими разрядами.</color> <color=#ededed>Используйте на верхней части туловища. В отличие от ручного дефибриллятора, не требует обучения, но срабатывает дольше и потребляет больше энергии.</color>",
         "manualdefibrillator": "Ручной дефибриллятор",
         "manualdefibrillatordsc": "Электронное устройство для <color=#7FDFFF>стабилизации опасных сердечных ритмов.</color> <color=#ededed>Используйте на верхней части туловища. Этот прибор ручной, и для правильного использования потребуются некоторые знания. По сравнению с автоматическим дефибриллятором (АНД), он работает быстрее и потребляет меньше энергии, но не гарантирует успех. Высокий ИНТ (интеллект) облегчает использование.</color>",
-		"minifleshrebuilder": "Mini flesh rebuilder",
-        "minifleshrebuilderdsc": "An experimental medical device that uses samples of flesh in order to heal traumatic injuries. If filled with three pieces of yellow flesh, can rebuild missing facial features. Also a mediocre light source!", \\\
+		"minifleshrebuilder": "Мини-реконструктор плоти",
+		"minifleshrebuilderdsc": "Экспериментальный медицинский прибор, использующий образцы плоти для заживления тяжелых травм. <color=#7FDFFF>При загрузке трех фрагментов желтой плоти способен восстановить утраченные черты лица.</color> А еще это весьма посредственный источник света!",
         "antidepressants": "Антидепрессанты",
         "antidepressantsdsc": "Флакон с таблетками антидепрессантов на 140 мл. Дозировка составляет 20 мл.",
         "antibiotics": "Флакон антибиотиков",
@@ -217,8 +217,8 @@
 		"exposedcoredsc": "Покоящиеся останки чего-то некогда одушевленного. Вероятно его можно съесть, чтобы восполнить <color=#e38e20>запас питательных веществ</color> и <color=#1f4ab8>воды.</color> <i>Похоже, оно медленно трансформируется во что-то...</i>",
         "foliage": "Листва",
         "foliagedsc": "Обычная инопланетная растительность. <color=#e38e20>Едва съедобна,</color> с неприятным вкусом. <color=#ededed>Может вызвать тошноту.</color> <color=#b06846>Быстро портится.</color> <color=#578000>Часто используется в крафте.</color>",
-		"redfoliage": "Red foliage",
-        "redfoliagedsc": "You have more important things to think about. That said, it does look quite pretty!",\\\
+		"redfoliage": "Красная листва",
+		"redfoliagedsc": "Сейчас есть заботы и поважнее. И все же выглядит довольно красиво!",
         "foliagemeal": "Блюдо из листвы",
         "foliagemealdsc": "Неплохо приготовленная еда из хрустящей листвы и примитивной начинки. <color=#b06846>Не долго хранится</color> и <color=#e38e20>не содержит жира, но очень сытная.</color>",
         "dryfoliage": "Сухая листва",
